@@ -30,6 +30,6 @@ while True:
         print("good bye ")
         break
     else:
-        print("invalid option")
+        print("invalid");
 
 
